@@ -1,0 +1,2625 @@
+[
+  {
+    "category": "Contents",
+    "rules": [
+      {
+        "number": 1,
+        "description": "The website provides a way for users to find out about new content and services.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Content",
+          "Eco-conception",
+          "Editorial",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-site-provides-users-with-a-way-to-know-about-new-contents-and-services"
+      },
+      {
+        "number": 2,
+        "description": "Information about copyrights and reuse rights is available from every page.",
+        "tags": [
+          "Conception",
+          "Content",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/information-about-copyrights-and-reuse-rights-can-be-accessed-from-every-page"
+      },
+      {
+        "number": 3,
+        "description": "Each page’s source code contains metadata that describes the content.",
+        "tags": [
+          "Basics",
+          "Content",
+          "Development",
+          "Editorial",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-pages-source-code-contains-metadata-that-describe-the-content"
+      },
+      {
+        "number": 4,
+        "description": "Dates are presented in an explicit format.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Content",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/dates-are-presented-in-an-explicit-format"
+      },
+      {
+        "number": 5,
+        "description": "The first occurrence of an abbreviation or an acronym in the body of any page gives access to an explanation of its meaning.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Content",
+          "Development",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-first-occurrence-of-an-abbreviation-or-an-acronym-in-the-body-of-any-page-provides-an-explanation-of-its-meaning"
+      },
+      {
+        "number": 6,
+        "description": "The publication date of the contents is indicated when needed.",
+        "tags": [
+          "Conception",
+          "Content"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-publication-date-of-the-contents-is-indicated-when-needed"
+      },
+      {
+        "number": 7,
+        "description": "A lexicon or a glossary adapted to the target audience explains the industry-specific or technical vocabulary used.",
+        "tags": [
+          "Accessibility",
+          "Content",
+          "Editorial",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/a-lexicon-or-a-glossary-adapted-to-the-target-audience-explains-the-industry-specific-or-technical-vocabulary-used"
+      },
+      {
+        "number": 8,
+        "description": "Advertisements and sponsored content are identified as such.",
+        "tags": [
+          "Conception",
+          "Content",
+          "Eco-conception",
+          "Editorial",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/advertisements-and-sponsored-content-are-identified-as-such"
+      },
+      {
+        "number": 9,
+        "description": "The conditions for moderation of public spaces are indicated.",
+        "tags": [
+          "Content",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-conditions-for-moderation-of-public-spaces-are-explained"
+      },
+      {
+        "number": 10,
+        "description": "Content and files intended for public spaces can be checked before upload.",
+        "tags": [
+          "Content",
+          "Development"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/content-and-files-intended-for-public-spaces-can-be-checked-before-upload"
+      },
+      {
+        "number": 11,
+        "description": "Public spaces offer at least one way to report abuse.",
+        "tags": [
+          "Conception",
+          "Content"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/public-spaces-offer-at-least-one-way-to-report-abuse"
+      },
+      {
+        "number": 12,
+        "description": "Each graph is accompanied by its numerical data.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Content",
+          "Editorial",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-graph-is-accompanied-by-its-numerical-data"
+      },
+      {
+        "number": 13,
+        "description": "The search result page indicates the number of results, the number of pages of results, and the number of results per page.",
+        "tags": [
+          "Conception",
+          "Content",
+          "Development"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-search-result-page-indicates-the-number-of-results-the-number-of-pages-of-results-and-the-number-of-results-per-page"
+      }
+    ]
+  },
+  {
+    "category": "Personal data",
+    "rules": [
+      {
+        "number": 14,
+        "description": "The privacy and confidentiality policy is available from any page.",
+        "tags": [
+          "Conception",
+          "Editorial",
+          "Personal information",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-privacy-and-confidentiality-policy-can-be-reached-from-any-page"
+      },
+      {
+        "number": 15,
+        "description": "The process of accessing and modifying personal data is described.",
+        "tags": [
+          "Basics",
+          "Editorial",
+          "Personal information",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-process-of-accessing-and-modifying-personal-data-is-explained"
+      },
+      {
+        "number": 16,
+        "description": "Account creation is possible without the need to use a third-party identification system.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Personal information",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/accounts-can-be-created-without-the-need-to-use-a-third-party-identification-system"
+      },
+      {
+        "number": 17,
+        "description": "Account creation is subject to a confirmation process.",
+        "tags": [
+          "Basics",
+          "Development",
+          "Personal information",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/account-creation-is-subject-to-a-confirmation-process"
+      },
+      {
+        "number": 18,
+        "description": "The website offers a mechanism to prevent account or identity theft.",
+        "tags": [
+          "Development",
+          "Personal information",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-site-offers-a-mechanism-to-prevent-account-or-identity-theft"
+      },
+      {
+        "number": 19,
+        "description": "Accounts and subscriptions opened online can be closed online by the same method.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Eco-conception",
+          "Personal information",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/accounts-and-subscriptions-opened-online-can-be-closed-online"
+      },
+      {
+        "number": 20,
+        "description": "If the website offers a personal or subscriber space, it is possible to download personal content.",
+        "tags": [
+          "Development",
+          "Eco-conception",
+          "Personal information",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/if-the-site-provides-a-personal-space-or-a-subscriber-space-personal-content-can-be-backed-up-in-a-standard-format"
+      },
+      {
+        "number": 21,
+        "description": "Connection to all the services offered is possible with the same identifiers.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Personal information",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/single-sign-on-to-all-website-services-is-possible-with-the-same-identifiers"
+      },
+      {
+        "number": 22,
+        "description": "It is possible to log out from private areas.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "Personal information",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/it-is-possible-to-log-out-from-private-areas"
+      },
+      {
+        "number": 23,
+        "description": "The website accepts email aliases containing the + sign.",
+        "tags": [
+          "Development",
+          "Personal information",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-website-accepts-email-aliases-containing-the-sign"
+      },
+      {
+        "number": 24,
+        "description": "The headers sent by the server specify the communication policy of the referrers.",
+        "tags": [
+          "Development",
+          "Personal information",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-headers-sent-by-the-server-specify-the-communication-policy-of-the-referrers"
+      },
+      {
+        "number": 25,
+        "description": "External links that open in a new window don't share contextual information.",
+        "tags": [
+          "Development",
+          "Personal information",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/external-links-that-open-in-a-new-window-dont-share-context-information"
+      },
+      {
+        "number": 26,
+        "description": "Exchanges of sensitive data are securely transmitted and reported as such.",
+        "tags": [
+          "Basics",
+          "Development",
+          "Editorial",
+          "Personal information"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/sensitive-data-are-securely-transmitted-and-signalled-as-such"
+      },
+      {
+        "number": 27,
+        "description": "Sensitive data is not transmitted unencrypted through URLs.",
+        "tags": [
+          "Development",
+          "Personal information"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/sensitive-data-are-not-transmitted-literally-through-urls"
+      },
+      {
+        "number": 28,
+        "description": "The purpose of using cookies, as well as the limitations inherent in refusing them, are explained.",
+        "tags": [
+          "Editorial",
+          "Personal information",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-aim-of-using-cookies-as-well-as-the-consequences-of-refusing-them-are-explained"
+      }
+    ]
+  },
+  {
+    "category": "E-Commerce",
+    "rules": [
+      {
+        "number": 29,
+        "description": "A product or service can be purchased without creating an account.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Development",
+          "e-commerce",
+          "Eco-conception",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/a-product-or-service-can-be-purchased-without-creating-an-account"
+      },
+      {
+        "number": 30,
+        "description": "The details of each item can be viewed from the shopping cart.",
+        "tags": [
+          "Conception",
+          "Development",
+          "e-commerce"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-details-of-each-item-can-be-viewed-from-the-shopping-cart"
+      },
+      {
+        "number": 31,
+        "description": "No additional products or services are added to the shopping cart without being user triggered.",
+        "tags": [
+          "Conception",
+          "e-commerce"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/no-additional-products-or-services-are-added-to-the-shopping-cart-without-a-customer-action"
+      },
+      {
+        "number": 32,
+        "description": "Registration for ancillary services is not enabled by default.",
+        "tags": [
+          "Conception",
+          "Development",
+          "e-commerce"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/registration-for-ancillary-services-is-not-enabled-by-default"
+      },
+      {
+        "number": 33,
+        "description": "Product availability is indicated before final validation of the order.",
+        "tags": [
+          "Conception",
+          "e-commerce",
+          "Eco-conception",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/product-availability-is-shown-before-final-order-placement"
+      },
+      {
+        "number": 34,
+        "description": "The estimated delivery time is indicated before the final validation of the order.",
+        "tags": [
+          "Conception",
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-estimated-delivery-date-is-shown-before-final-order-placement"
+      },
+      {
+        "number": 35,
+        "description": "The estimated delivery costs are indicated before the final validation of the order.",
+        "tags": [
+          "Conception",
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-estimated-delivery-costs-are-indicated-before-the-final-validation-of-the-order"
+      },
+      {
+        "number": 36,
+        "description": "The method for retrieving a dematerialised or digital product is specified before placing the order.",
+        "tags": [
+          "Conception",
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-method-for-retrieving-a-virtual-item-is-explained-before-order-placement"
+      },
+      {
+        "number": 37,
+        "description": "Users can still modify each item’s quantity, and add or delete one or more items, before the final validation of the order.",
+        "tags": [
+          "Conception",
+          "Development",
+          "e-commerce"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/users-can-still-modify-each-items-quantity-and-add-or-delete-one-or-more-items-as-long-as-the-order-has-not-definitively-been-placed"
+      },
+      {
+        "number": 38,
+        "description": "The nature and quantifiable characteristics of products and services are indicated.",
+        "tags": [
+          "Conception",
+          "e-commerce",
+          "Editorial",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-nature-and-quantifiable-characteristics-of-products-and-services-are-provided"
+      },
+      {
+        "number": 39,
+        "description": "The period of validity and conditions of special offers and promotions are indicated.",
+        "tags": [
+          "Conception",
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-period-of-validity-and-conditions-of-special-offers-and-promotions-are-indicated"
+      },
+      {
+        "number": 40,
+        "description": "The detailed sub-total is indicated before final validation of the order.",
+        "tags": [
+          "Conception",
+          "Development",
+          "e-commerce"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-detailed-sub-total-is-indicated-before-final-order-placement"
+      },
+      {
+        "number": 41,
+        "description": "The conditions of financing are indicated.",
+        "tags": [
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/financing-conditions-are-indicated"
+      },
+      {
+        "number": 42,
+        "description": "The operating conditions of the after-sales service are indicated.",
+        "tags": [
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/customer-support-service-conditions-are-provided"
+      },
+      {
+        "number": 43,
+        "description": "Debit and payment conditions are indicated before final order placement.",
+        "tags": [
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/debit-and-charge-conditions-are-explained-before-final-order-placement"
+      },
+      {
+        "number": 44,
+        "description": "Warranty conditions are indicated.",
+        "tags": [
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/warranty-conditions-are-specified"
+      },
+      {
+        "number": 45,
+        "description": "The terms of sale or use are available from all pages.",
+        "tags": [
+          "Conception",
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-terms-of-sale-and-use-can-be-accessed-from-every-page"
+      },
+      {
+        "number": 46,
+        "description": "The information relating to the delivery zones of the products or the realization of the services are indicated.",
+        "tags": [
+          "Conception",
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/information-is-provided-about-the-products-or-services-delivery-zones"
+      },
+      {
+        "number": 47,
+        "description": "The means of payment accepted, and the corresponding procedures are indicated.",
+        "tags": [
+          "Conception",
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-accepted-payment-methods-and-their-associated-procedures-are-indicated"
+      },
+      {
+        "number": 48,
+        "description": "The identity of third parties involved in transactions is specified.",
+        "tags": [
+          "e-commerce",
+          "Editorial",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-identity-of-third-parties-involved-in-transactions-is-provided"
+      },
+      {
+        "number": 49,
+        "description": "The recourse in cases of dispute are indicated in the general terms and conditions of sale or of use.",
+        "tags": [
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/dispute-procedures-are-explained-in-the-general-terms-of-sale-or-use"
+      },
+      {
+        "number": 50,
+        "description": "The address and the terms and conditions for returns are indicated before the final validation of the return order.",
+        "tags": [
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-address-and-the-terms-and-conditions-for-returns-on-site-at-the-workshop-etc-are-provided"
+      },
+      {
+        "number": 51,
+        "description": "The cost of the return is indicated before the final validation of the return order.",
+        "tags": [
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-website-indicates-who-has-to-pay-the-return-costs-before-the-final-validation-of-the-order"
+      },
+      {
+        "number": 52,
+        "description": "The mode of filing and the procedure for handling complaints are indicated.",
+        "tags": [
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-procedure-for-submitting-a-complaint-and-for-how-it-will-be-handled-is-explained"
+      },
+      {
+        "number": 53,
+        "description": "The conditions for reimbursement are indicated.",
+        "tags": [
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-conditions-for-getting-a-refund-are-explained"
+      },
+      {
+        "number": 54,
+        "description": "The hardware and software necessary for the operation of the service are indicated before final validation of the order.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "e-commerce",
+          "Eco-conception",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-hardware-and-software-required-for-the-service-to-run-are-provided-before-final-order-placement"
+      },
+      {
+        "number": 55,
+        "description": "The displayed prices show the applied taxes and any additional charges, as well as tax-exclusive prices.",
+        "tags": [
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-displayed-prices-show-the-applied-taxes-and-any-additional-charges-as-well-as-tax-exclusive-prices"
+      },
+      {
+        "number": 56,
+        "description": "Different shipping and billing addresses can be specified.",
+        "tags": [
+          "Conception",
+          "Development",
+          "e-commerce"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/different-shipping-and-billing-addresses-can-be-specified"
+      },
+      {
+        "number": 57,
+        "description": "The website accepts at least two methods of payment.",
+        "tags": [
+          "Basics",
+          "Conception",
+          "Development",
+          "e-commerce"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-website-accepts-at-least-two-payment-methods"
+      },
+      {
+        "number": 58,
+        "description": "Personal banking information is only stored after the explicit consent of the user.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "e-commerce",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/personal-banking-information-is-only-stored-with-the-express-consent-of-the-user"
+      },
+      {
+        "number": 59,
+        "description": "The personal banking information stored by the website can be modified or deleted at any time.",
+        "tags": [
+          "Basics",
+          "Development",
+          "e-commerce",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-personal-banking-information-stored-by-the-site-can-be-modified-or-deleted"
+      },
+      {
+        "number": 60,
+        "description": "The transaction’s reference number is displayed to the customer, once the order has been placed.",
+        "tags": [
+          "Conception",
+          "Development",
+          "e-commerce"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-transactions-reference-number-is-displayed-to-the-customer-once-the-order-has-been-placed"
+      },
+      {
+        "number": 61,
+        "description": "The invoices issued are also available online",
+        "tags": [
+          "Basics",
+          "Development",
+          "e-commerce"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-invoices-issued-are-also-available-online"
+      },
+      {
+        "number": 62,
+        "description": "Each invoice is subject to a confirmation email.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "e-commerce"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-invoice-is-subject-to-a-confirmation-email"
+      },
+      {
+        "number": 63,
+        "description": "Any mention of an affiliation with a professional association, or endorsement by a label or an award, features a link to the source.",
+        "tags": [
+          "e-commerce",
+          "Editorial"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/any-mention-of-an-affiliation-with-a-professional-association-or-endorsement-by-a-label-or-an-award-features-a-link-to-the-source"
+      },
+      {
+        "number": 64,
+        "description": "Unavailable products are differentiated by visual and textual means.",
+        "tags": [
+          "Conception",
+          "e-commerce"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/unavailable-products-are-differentiated-by-visual-and-textual-means"
+      },
+      {
+        "number": 65,
+        "description": "An email providing the transaction’s reference number and the order details is sent after order placement.",
+        "tags": [
+          "Basics",
+          "Development",
+          "e-commerce"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/an-email-providing-the-transactions-reference-number-and-the-order-details-is-sent-after-order-placement"
+      },
+      {
+        "number": 66,
+        "description": "Each complaint is issued with an acknowledgment of receipt.",
+        "tags": [
+          "Development",
+          "e-commerce"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/every-complaint-submitted-produces-an-acknowledgment-of-receipt"
+      }
+    ]
+  },
+  {
+    "category": "Forms",
+    "rules": [
+      {
+        "number": 67,
+        "description": "Each form field has its own label associated with it in the source code.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/in-the-source-code-each-field-in-the-form-is-associated-with-a-label-that-is-specific-to-it"
+      },
+      {
+        "number": 68,
+        "description": "Information supplementing a field’s label is associated with that field in the source code.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/information-supplementing-a-fields-label-is-associated-with-that-field-in-the-source-code"
+      },
+      {
+        "number": 69,
+        "description": "Each form field’s label indicates whether or not it is a required field.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Forms",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-form-fields-label-indicates-whether-or-not-it-is-a-required-field"
+      },
+      {
+        "number": 70,
+        "description": "Each form field’s label indicates the required data format, where applicable.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-form-fields-label-indicates-the-required-data-format-if-any"
+      },
+      {
+        "number": 71,
+        "description": "The user is warned whenever a field is case-sensitive.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-user-is-warned-whenever-a-field-is-case-sensitive"
+      },
+      {
+        "number": 72,
+        "description": "The label of each form field indicates the maximum number of characters allowed, where applicable.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-label-of-each-form-field-that-requires-it-indicates-the-number-of-characters-allowed"
+      },
+      {
+        "number": 73,
+        "description": "The creation of a password by the user is subject to a mechanism for the prevention of input errors.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/there-is-an-input-error-prevention-mechanism-for-user-password-creation"
+      },
+      {
+        "number": 74,
+        "description": "The characters entered in a password field can be displayed in an un-encrypted text.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-characters-entered-in-a-password-field-can-be-displayed-in-clear-text"
+      },
+      {
+        "number": 75,
+        "description": "Each form label is visually associated to the field that it describes.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/every-form-label-is-visually-attached-to-the-field-that-it-describes"
+      },
+      {
+        "number": 76,
+        "description": "The contextual information relating to a form field has a close visual-proximity to it.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-contextual-information-relating-to-a-form-field-has-a-close-visual-proximity-to-it"
+      },
+      {
+        "number": 77,
+        "description": "If any data entered in the form are rejected, the fields containing the rejected data are indicated for the user.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/if-any-data-entered-in-the-form-are-rejected-the-fields-containing-the-rejected-data-are-highlighted-for-the-user"
+      },
+      {
+        "number": 78,
+        "description": "If any data entered in the form are rejected, the reason(s) why are indicated to the user.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/if-any-data-entered-in-the-form-are-rejected-the-reasons-why-are-explained-to-the-user"
+      },
+      {
+        "number": 79,
+        "description": "If any data entered in the form are rejected, all the data entered can be modified by the user.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/if-any-data-entered-in-the-form-are-rejected-the-user-can-change-any-of-the-input-data"
+      },
+      {
+        "number": 80,
+        "description": "Custom error messages are expressed in the language of the form.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/custom-error-messages-are-expressed-in-the-language-of-the-form"
+      },
+      {
+        "number": 81,
+        "description": "For forms divided over several pages, an overall summary is displayed before the final version is submitted.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/for-forms-divided-over-several-pages-an-overall-summary-is-displayed-before-the-final-version-is-submitted"
+      },
+      {
+        "number": 82,
+        "description": "The page displayed after the form’s submission allows the user to return to their navigation directly.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-page-displayed-after-the-forms-submission-allows-the-user-to-return-to-their-navigation-directly"
+      },
+      {
+        "number": 83,
+        "description": "Form submission is followed by a message indicating whether or not the action was successful.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/form-submission-is-followed-by-a-message-indicating-whether-or-not-the-action-was-successful"
+      },
+      {
+        "number": 84,
+        "description": "The user is alerted at the beginning of a complex process to the nature of the required data and documents.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Eco-conception",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-user-is-alerted-at-the-beginning-of-a-complex-process-to-the-nature-of-the-data-required"
+      },
+      {
+        "number": 85,
+        "description": "Complex processes are accompanied by a list of their steps.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/complex-processes-are-accompanied-by-a-list-of-their-steps"
+      },
+      {
+        "number": 86,
+        "description": "The current step in a complex process is indicated.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-current-step-in-a-complex-process-is-indicated"
+      },
+      {
+        "number": 87,
+        "description": "Each step in a complex process allows the user to go back to the previous step.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-step-in-a-complex-process-allows-the-user-to-go-back-to-the-previous-step"
+      },
+      {
+        "number": 88,
+        "description": "The user is warned when they will lose information if they go back using their browser’s history during a complex process.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-user-is-warned-that-they-will-lose-information-if-they-go-back-using-their-browsers-history-during-a-complex-process"
+      },
+      {
+        "number": 89,
+        "description": "Navigating through a complex process does not cause any previously-submitted data to be lost.",
+        "tags": [
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/navigating-through-a-complex-process-does-not-cause-any-previously-submitted-data-to-be-lost"
+      },
+      {
+        "number": 90,
+        "description": "Copy-and-paste is possible in the form’s fields.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/copy-and-paste-is-possible-in-the-forms-fields"
+      },
+      {
+        "number": 91,
+        "description": "The items in a drop-down list are grouped together appropriately, where applicable.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-items-in-a-drop-down-list-are-grouped-together-appropriately-where-applicable"
+      },
+      {
+        "number": 92,
+        "description": "The lists of form options are presented in an identifiable order.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Forms"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-lists-of-form-options-are-presented-in-an-identifiable-order"
+      },
+      {
+        "number": 93,
+        "description": "Email, URL, telephone number, search, password, and date and time input fields are assigned an appropriate input type.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Forms",
+          "Mobile"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/email-url-telephone-number-search-password-and-date-and-time-input-fields-are-assigned-an-appropriate-type"
+      }
+    ]
+  },
+  {
+    "category": "Identification and contact",
+    "rules": [
+      {
+        "number": 94,
+        "description": "The homepage explains the nature of the content and services offered.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Editorial",
+          "Identification and contact",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-homepage-explains-the-nature-of-the-content-and-services-on-offer"
+      },
+      {
+        "number": 95,
+        "description": "If the website is reserved or intended for a specific audience, that audience is mentioned, at least on the homepage.",
+        "tags": [
+          "Conception",
+          "Editorial",
+          "Identification and contact"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/if-the-site-is-reserved-or-intended-for-a-specific-audience-that-audience-is-mentioned-at-least-on-the-homepage"
+      },
+      {
+        "number": 96,
+        "description": "The identity of the author, the company or the organization is indicated.",
+        "tags": [
+          "Conception",
+          "Editorial",
+          "Identification and contact",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-identity-of-the-author-the-company-or-the-organization-is-provided"
+      },
+      {
+        "number": 97,
+        "description": "Each page provides a title that enables one to identify the website",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Identification and contact",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-page-provides-a-title-that-enables-one-to-identify-the-site"
+      },
+      {
+        "number": 98,
+        "description": "Each page provides a title that enables one to identify its content",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Editorial",
+          "Identification and contact",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-page-provides-a-title-that-enables-one-to-identify-its-content"
+      },
+      {
+        "number": 99,
+        "description": "The source code of the pages contains a valid call to a favourite icon (“favicon”)",
+        "tags": [
+          "Basics",
+          "Conception",
+          "Development",
+          "Identification and contact"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-source-code-of-the-pages-contains-a-valid-call-to-a-favourite-icon-favicon"
+      },
+      {
+        "number": 100,
+        "description": "The complete address and telephone number of companies and organizations are available from all pages of the website.",
+        "tags": [
+          "Conception",
+          "Editorial",
+          "Identification and contact",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-complete-address-and-phone-number-of-companies-and-organizations-can-be-reached-from-all-of-the-sites-pages"
+      },
+      {
+        "number": 101,
+        "description": "The registration number issued to companies or organizations under the legal registration procedures in force in their country is indicated.",
+        "tags": [
+          "Editorial",
+          "Identification and contact"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-companys-or-organizations-legal-registration-number-issued-in-its-home-country-is-provided"
+      },
+      {
+        "number": 102,
+        "description": "The website provides at least two means of contact.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Editorial",
+          "Identification and contact"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-site-provides-at-least-two-means-of-contact"
+      },
+      {
+        "number": 103,
+        "description": "Response times for information requests are indicated.",
+        "tags": [
+          "Conception",
+          "Editorial",
+          "Identification and contact"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/response-times-are-provided-for-information-requests"
+      },
+      {
+        "number": 104,
+        "description": "The operating hours and prices for the services made available to users are indicated.",
+        "tags": [
+          "Conception",
+          "Eco-conception",
+          "Editorial",
+          "Identification and contact"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-hours-and-prices-for-the-services-offered-to-customers-are-listed"
+      },
+      {
+        "number": 105,
+        "description": "Each request for information is followed by an acknowledgement receipt.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "Identification and contact"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/every-information-request-submitted-produces-an-acknowledgment-of-receipt"
+      },
+      {
+        "number": 106,
+        "description": "All emails provide at least one means of contact.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "Identification and contact"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/all-emails-provide-at-least-one-means-of-contact"
+      },
+      {
+        "number": 107,
+        "description": "The website provides at least one means of contacting the person in charge of complaints.",
+        "tags": [
+          "Conception",
+          "Editorial",
+          "Identification and contact"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-site-provides-at-least-one-means-of-contacting-the-person-in-charge-of-complaints"
+      },
+      {
+        "number": 108,
+        "description": "The website provides at least one means of contacting the moderator of public spaces.",
+        "tags": [
+          "Conception",
+          "Editorial",
+          "Identification and contact",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-site-provides-at-least-one-means-of-contacting-the-moderator-of-public-spaces"
+      },
+      {
+        "number": 109,
+        "description": "The identity of the person or department responsible for the content is indicated.",
+        "tags": [
+          "Editorial",
+          "Identification and contact"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-identity-of-the-person-responsible-for-the-content-or-the-service-is-provided"
+      },
+      {
+        "number": 110,
+        "description": "If the website claims to adhere to one or more standards or guidelines, a link is provided to each of them.",
+        "tags": [
+          "Editorial",
+          "Identification and contact"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/if-the-site-claims-to-adhere-to-one-or-more-standards-or-guidelines-a-link-is-provided-to-each-of-them"
+      }
+    ]
+  },
+  {
+    "category": "Images and medias",
+    "rules": [
+      {
+        "number": 111,
+        "description": "Each decorative image has an appropriate text alternative.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "Images and media",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-decorative-image-has-an-appropriate-text-alternative"
+      },
+      {
+        "number": 112,
+        "description": "Each image link has an appropriate text alternative.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "Images and media",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-image-link-has-an-appropriate-text-alternative"
+      },
+      {
+        "number": 113,
+        "description": "Each information-carrying image has an appropriate text alternative.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "Images and media",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-information-carrying-image-has-an-appropriate-text-alternative"
+      },
+      {
+        "number": 114,
+        "description": "Thumbnails and previews are not larger images resized on the client side.",
+        "tags": [
+          "Development",
+          "Eco-conception",
+          "Images and media"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/thumbnails-and-previews-are-not-larger-images-resized-on-the-client-side"
+      },
+      {
+        "number": 115,
+        "description": "Included objects have an appropriate text alternative.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "Images and media",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/included-objects-have-an-appropriate-text-alternative"
+      },
+      {
+        "number": 116,
+        "description": "Each audio and video content is accompanied by a text transcription.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Eco-conception",
+          "Editorial",
+          "Images and media",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/all-audio-and-video-content-is-accompanied-by-a-text-transcription"
+      },
+      {
+        "number": 117,
+        "description": "Videos have synchronized subtitles.",
+        "tags": [
+          "Accessibility",
+          "Editorial",
+          "Images and media"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/videos-have-synchronized-subtitles"
+      },
+      {
+        "number": 118,
+        "description": "The length of video and audio content is indicated.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Eco-conception",
+          "Images and media"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-length-of-video-and-audio-content-is-displayed"
+      },
+      {
+        "number": 119,
+        "description": "Videos are user-triggered.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "Eco-conception",
+          "Images and media"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/videos-are-user-triggered"
+      },
+      {
+        "number": 120,
+        "description": "Sounds are user-triggered.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "Eco-conception",
+          "Images and media"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/sounds-are-user-triggered"
+      },
+      {
+        "number": 121,
+        "description": "Video content and animations, sounds and flashes can be paused.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Images and media"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/video-content-and-animations-sounds-and-flashes-can-be-paused"
+      },
+      {
+        "number": 122,
+        "description": "The running of video or any animation does not block access to navigation or content.",
+        "tags": [
+          "Development",
+          "Images and media"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-course-of-video-or-any-animation-does-not-block-access-to-navigation-or-content"
+      }
+    ]
+  },
+  {
+    "category": "Internationalization",
+    "rules": [
+      {
+        "number": 123,
+        "description": "The international dialling codes are available for all phone numbers.",
+        "tags": [
+          "Editorial",
+          "Internationalization"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-country-code-is-provided-for-all-phone-numbers"
+      },
+      {
+        "number": 124,
+        "description": "The country is specified for all mailing addresses.",
+        "tags": [
+          "Editorial",
+          "Internationalization"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-country-is-mentioned-for-all-mailing-addresses"
+      },
+      {
+        "number": 125,
+        "description": "Each page’s source code indicates the content’s main language.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Internationalization",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-pages-source-code-specifies-the-contents-main-language"
+      },
+      {
+        "number": 126,
+        "description": "The main language of a link’s target page can be identified when it differs from the main language of the original page.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "Internationalization"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-main-language-of-a-links-target-page-is-provided-if-different-from-the-original-page"
+      },
+      {
+        "number": 127,
+        "description": "Each language change is identified.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "Internationalization"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-language-change-is-indicated"
+      },
+      {
+        "number": 128,
+        "description": "Links to translated versions point directly to the current page’s translation.",
+        "tags": [
+          "Development",
+          "Editorial",
+          "Internationalization"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/links-to-translated-versions-point-directly-to-the-current-pages-translation"
+      },
+      {
+        "number": 129,
+        "description": "Links to equivalent versions of a page or website are written in the target language.",
+        "tags": [
+          "Development",
+          "Editorial",
+          "Internationalization"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/links-to-equivalent-versions-of-a-page-or-site-are-written-in-the-target-language"
+      },
+      {
+        "number": 130,
+        "description": "The server respects the preferential order of languages specified by user agents.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Internationalization"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-server-respects-the-preferential-order-of-languages-specified-in-user-agents"
+      }
+    ]
+  },
+  {
+    "category": "Links",
+    "rules": [
+      {
+        "number": 131,
+        "description": "Each link has a title in the source code.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "Links"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-link-has-a-proper-label-in-the-source-code"
+      },
+      {
+        "number": 132,
+        "description": "Each link’s label describes either its function or the nature of the content of its target.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Editorial",
+          "Links",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-hyperlinks-label-describes-either-its-function-or-the-nature-of-its-target"
+      },
+      {
+        "number": 133,
+        "description": "Links of the same nature have identical colors, shapes and behaviors on all pages.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Eco-conception",
+          "Links"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/hyperlinks-of-the-same-nature-have-identical-colors-shapes-and-behaviors-on-all-pages"
+      },
+      {
+        "number": 134,
+        "description": "Underlining is reserved for links.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Editorial",
+          "Links"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/underlining-is-reserved-for-links"
+      },
+      {
+        "number": 135,
+        "description": "Links are visually differentiated from the rest of the content.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Links"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/hyperlinks-are-visually-differentiated-from-the-rest-of-the-content"
+      },
+      {
+        "number": 136,
+        "description": "The website applies a different style to visited and unvisited links.",
+        "tags": [
+          "Conception",
+          "Development",
+          "Links"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-site-applies-a-different-style-to-visited-and-unvisited-links"
+      },
+      {
+        "number": 137,
+        "description": "Internal and external links are differentiated.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Links"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/internal-and-external-hyperlinks-are-differentiated"
+      },
+      {
+        "number": 138,
+        "description": "Internal links to restricted content are differentiated.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Links"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/internal-links-to-restricted-content-are-differentiated"
+      },
+      {
+        "number": 139,
+        "description": "Links which cause external software to open have an explicit label.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Editorial",
+          "Links"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/links-to-external-software-have-an-explicit-label"
+      },
+      {
+        "number": 140,
+        "description": "Telephone numbers can be enabled using the appropriate protocol.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Links",
+          "Mobile"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/phone-numbers-can-be-enabled-using-the-appropriate-protocol"
+      },
+      {
+        "number": 141,
+        "description": "The user is notified when new windows are to be opened.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "Links"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-user-is-warned-before-new-windows-are-opened"
+      },
+      {
+        "number": 142,
+        "description": "The format of the files available for download is indicated.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Eco-conception",
+          "Links"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-format-of-downloadable-files-is-displayed"
+      },
+      {
+        "number": 143,
+        "description": "The size of the internal files available for downloading is indicated.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "Eco-conception",
+          "Editorial",
+          "Links"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-size-of-downloadable-files-is-displayed"
+      },
+      {
+        "number": 144,
+        "description": "The language of downloadable files is mentioned when it differs from the original page.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Eco-conception",
+          "Editorial",
+          "Links"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-language-of-downloadable-files-is-mentioned-when-it-is-different-to-the-original-page"
+      },
+      {
+        "number": 145,
+        "description": "Internal names for downloadable files make it possible to identify their content and origin.",
+        "tags": [
+          "Accessibility",
+          "Editorial",
+          "Links"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/internal-names-for-downloadable-files-make-it-possible-to-identify-their-content-and-origin"
+      },
+      {
+        "number": 146,
+        "description": "The website does not prohibit or restrict incoming links.",
+        "tags": [
+          "Editorial",
+          "Links",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-site-does-not-prohibit-or-restrict-incoming-links"
+      },
+      {
+        "number": 147,
+        "description": "All links internal to the website are valid.",
+        "tags": [
+          "Development",
+          "Editorial",
+          "Links",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/all-hyperlinks-internal-to-the-site-are-valid"
+      }
+    ]
+  },
+  {
+    "category": "Navigation",
+    "rules": [
+      {
+        "number": 148,
+        "description": "If the website is not restricted to a specific public, its content can be accessed directly.",
+        "tags": [
+          "Conception",
+          "Editorial",
+          "Navigation",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/if-the-site-is-not-restricted-to-a-specific-public-its-content-can-be-accessed-directly"
+      },
+      {
+        "number": 149,
+        "description": "Navigating the website does not open any pop-up windows.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Eco-conception",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/navigating-the-website-does-not-open-any-pop-up-windows"
+      },
+      {
+        "number": 150,
+        "description": "It is possible to return to the homepage from any page.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/it-is-possible-to-go-back-to-the-homepage-from-any-page"
+      },
+      {
+        "number": 151,
+        "description": "Each page displays information about its location in the website’s tree structure.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-page-displays-information-as-to-where-it-is-located-in-the-sites-tree-structure"
+      },
+      {
+        "number": 152,
+        "description": "Active menu items are identifiable.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/active-menu-items-are-indicated"
+      },
+      {
+        "number": 153,
+        "description": "Navigation blocks of the same nature are in the same place on every page.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/navigation-blocks-of-the-same-nature-are-in-the-same-place-on-every-page"
+      },
+      {
+        "number": 154,
+        "description": "Navigation icons are provided with an explicit legend.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/navigation-icons-are-provided-with-explicit-text-legends"
+      },
+      {
+        "number": 155,
+        "description": "Mechanisms for closing windows are visually linked to their content.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/mechanisms-for-closing-windows-are-visually-attached-to-their-content"
+      },
+      {
+        "number": 156,
+        "description": "Mechanisms for closing windows are immediately available.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/mechanisms-for-closing-windows-are-immediately-available"
+      },
+      {
+        "number": 157,
+        "description": "Newly dimensioned windows and modal windows are equipped with an explicit close button.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/new-windows-that-are-specially-sized-and-modal-windows-are-all-equipped-with-explicit-close-buttons"
+      },
+      {
+        "number": 158,
+        "description": "Mechanisms for closing windows are shown in the same location on every page.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/mechanisms-for-closing-windows-are-shown-in-the-same-location-on-every-page"
+      },
+      {
+        "number": 159,
+        "description": "Each page contains quick-access links placed at the beginning of the source code.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-page-provides-skip-links-at-the-beginning-of-its-source-code"
+      },
+      {
+        "number": 160,
+        "description": "Keyboard focus isn't removed or masked.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/keyboard-focus-has-not-been-removed-or-masked"
+      },
+      {
+        "number": 161,
+        "description": "The website can be used and navigated in its entirety using only a keyboard.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-site-can-be-navigated-in-its-entirety-using-only-a-keyboard"
+      },
+      {
+        "number": 162,
+        "description": "Keyboard navigation is set up in a predictable order.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/keyboard-navigation-is-set-up-in-a-predictable-order"
+      },
+      {
+        "number": 163,
+        "description": "The website offers an internal search engine.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Eco-conception",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-site-offers-an-internal-search-engine"
+      },
+      {
+        "number": 164,
+        "description": "Each search results page can be reached via a web address.",
+        "tags": [
+          "Development",
+          "Eco-conception",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-search-result-page-can-be-reached-by-means-of-a-web-address"
+      },
+      {
+        "number": 165,
+        "description": "It is possible to relaunch a search from its results page.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Eco-conception",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/it-is-possible-to-relaunch-a-search-from-its-results-page"
+      },
+      {
+        "number": 166,
+        "description": "The site map is available from every page.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Navigation",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-site-map-can-be-reached-from-every-page"
+      },
+      {
+        "number": 167,
+        "description": "The time limits imposed on an action or access are indicated.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Navigation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-time-limits-imposed-on-an-action-or-access-are-indicated"
+      }
+    ]
+  },
+  {
+    "category": "Newsletter",
+    "rules": [
+      {
+        "number": 168,
+        "description": "Subscribing to newsletters is subject to a confirmation process.",
+        "tags": [
+          "Basics",
+          "Development",
+          "Editorial",
+          "Newsletter",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/subscribing-to-newsletters-is-subject-to-a-confirmation-process"
+      },
+      {
+        "number": 169,
+        "description": "An unsubscribe link is provided in each newsletter.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Newsletter",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/an-unsubscribe-link-is-provided-in-each-newsletter"
+      },
+      {
+        "number": 170,
+        "description": "Unsubscribing from within the newsletter does not require email confirmation.",
+        "tags": [
+          "Development",
+          "Eco-conception",
+          "Newsletter",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/unsubscribing-from-within-the-newsletter-does-not-require-email-confirmation"
+      },
+      {
+        "number": 171,
+        "description": "It is possible to unsubscribe from newsletters from the website.",
+        "tags": [
+          "Conception",
+          "Development",
+          "Newsletter",
+          "Privacy"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/it-is-possible-to-unsubscribe-from-newsletters-from-the-website"
+      },
+      {
+        "number": 172,
+        "description": "The latest edition of the newsletter is available online.",
+        "tags": [
+          "Conception",
+          "Newsletter"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-latest-edition-of-the-newsletter-is-available-online"
+      },
+      {
+        "number": 173,
+        "description": "Newsletter archives are available online.",
+        "tags": [
+          "Conception",
+          "Development",
+          "Newsletter",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/newsletter-archives-are-available-online"
+      },
+      {
+        "number": 174,
+        "description": "The newsletters’ frequency can be found before subscribing.",
+        "tags": [
+          "Conception",
+          "Newsletter"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-newsletters-frequency-can-be-found-before-subscribing"
+      }
+    ]
+  },
+  {
+    "category": "Presentation",
+    "rules": [
+      {
+        "number": 175,
+        "description": "The graphic charter is consistent throughout the website.",
+        "tags": [
+          "Conception",
+          "Presentation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-design-is-consistent-throughout-the-site"
+      },
+      {
+        "number": 176,
+        "description": "Information is not conveyed by color alone.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Presentation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/information-is-not-conveyed-by-color-alone"
+      },
+      {
+        "number": 177,
+        "description": "Content is presented with sufficient contrast to its background.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Presentation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/content-is-presented-with-sufficient-contrast-to-its-background"
+      },
+      {
+        "number": 178,
+        "description": "The content and meaning of each page are not altered when styles are disabled.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Presentation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-content-and-meaning-of-each-page-are-not-altered-when-styles-are-disabled"
+      },
+      {
+        "number": 179,
+        "description": "Content is not only designated by its shape or its position on the screen.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Editorial",
+          "Presentation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/content-is-not-only-designated-by-its-shape-or-its-position-on-the-screen"
+      },
+      {
+        "number": 180,
+        "description": "Content that needs to be reproduced by screen readers is not hidden from them.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Presentation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/content-that-should-be-reproduced-by-screen-readers-is-not-hidden-from-them"
+      },
+      {
+        "number": 181,
+        "description": "The size of the clickable elements is sufficient.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Mobile",
+          "Presentation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-size-of-the-clickable-elements-is-sufficient"
+      },
+      {
+        "number": 182,
+        "description": "Texts that can be formatted via styles are not replaced by images.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Eco-conception",
+          "Editorial",
+          "Presentation",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/texts-that-can-be-formatted-via-styles-are-not-replaced-by-images"
+      },
+      {
+        "number": 183,
+        "description": "Content generated via styles is provided with a suitable alternative.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Presentation",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/content-managed-by-styles-has-an-appropriate-alternative"
+      },
+      {
+        "number": 184,
+        "description": "Typographic symbols have an appropriate alternative.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Presentation",
+          "SEO"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/typographic-symbols-have-an-appropriate-alternative"
+      },
+      {
+        "number": 185,
+        "description": "A generic font family is listed as the last alternative in font family lists.",
+        "tags": [
+          "Development",
+          "Presentation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/a-generic-font-family-is-listed-as-the-last-alternative-in-font-family-lists"
+      },
+      {
+        "number": 186,
+        "description": "Styles do not justify the text.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Editorial",
+          "Presentation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/styles-do-not-justify-the-text"
+      },
+      {
+        "number": 187,
+        "description": "Capitalization for decorative purposes is done using styles.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "Presentation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/words-are-capitalized-for-decorative-purposes-by-means-of-styles"
+      },
+      {
+        "number": 188,
+        "description": "The website does not block the browser’s zoom functionalities.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Mobile",
+          "Presentation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-website-does-not-block-the-browsers-zoom-functionalities"
+      },
+      {
+        "number": 189,
+        "description": "The website offers one or more mechanisms for adapting to mobile devices.",
+        "tags": [
+          "Basics",
+          "Conception",
+          "Development",
+          "Mobile",
+          "Presentation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-website-offers-one-or-more-mechanisms-for-adapting-to-mobile-devices"
+      },
+      {
+        "number": 190,
+        "description": "The website offers styles dedicated to printing.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Eco-conception",
+          "Presentation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-site-provides-at-least-one-style-sheet-for-printing"
+      },
+      {
+        "number": 191,
+        "description": "The content of each page can be printed without printing the navigation blocks.",
+        "tags": [
+          "Development",
+          "Eco-conception",
+          "Presentation"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-content-of-each-page-can-be-printed-without-navigation-blocks"
+      }
+    ]
+  },
+  {
+    "category": "Security",
+    "rules": [
+      {
+        "number": 192,
+        "description": "All pages use the HTTPS protocol.",
+        "tags": [
+          "Basics",
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/all-pages-use-the-https-protocol"
+      },
+      {
+        "number": 193,
+        "description": "Security certificates are signed and currently valid",
+        "tags": [
+          "Basics",
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/security-certificates-are-signed-and-currently-valid"
+      },
+      {
+        "number": 194,
+        "description": "Pages using HTTPS have a strict transport header.",
+        "tags": [
+          "Basics",
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/pages-using-https-have-a-strict-transport-header"
+      },
+      {
+        "number": 195,
+        "description": "Pages using the HTTPS protocol do not offer HTTP resources.",
+        "tags": [
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/pages-using-the-https-protocol-do-not-offer-http-resources"
+      },
+      {
+        "number": 196,
+        "description": "Password operations can be carried out in their entirety online.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/password-related-operations-can-be-carried-out-completely-online"
+      },
+      {
+        "number": 197,
+        "description": "Passwords can be chosen and changed by the user",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/passwords-can-be-chosen-and-changed-by-the-user"
+      },
+      {
+        "number": 198,
+        "description": "A mechanism raises the user's awareness regarding their password's level of security",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/a-mechanism-raises-the-users-awareness-regarding-their-passwords-level-of-security"
+      },
+      {
+        "number": 199,
+        "description": "The website provides a way to reinitialise a password.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-site-provides-a-way-to-reinitialise-a-password-if-its-lost-stolen-or-forgotten"
+      },
+      {
+        "number": 200,
+        "description": "The website doesn't communicate a password by email.",
+        "tags": [
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-site-doesnt-communicate-a-password-by-email"
+      },
+      {
+        "number": 201,
+        "description": "The headers sent by the server disable automatic detection of each resource’s MIME type.",
+        "tags": [
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-headers-sent-by-the-server-disable-automatic-detection-of-each-resources-mime-type"
+      },
+      {
+        "number": 202,
+        "description": "The server indicates each resource’s MIME type.",
+        "tags": [
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-server-indicates-each-resources-mime-type"
+      },
+      {
+        "number": 203,
+        "description": "Information relative to transaction security is indicated.",
+        "tags": [
+          "Editorial",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/information-relative-to-transaction-security-are-provided"
+      },
+      {
+        "number": 204,
+        "description": "The server does not send the file listing of directories with no index page.",
+        "tags": [
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-server-does-not-list-files-in-folders-that-do-not-have-index-files"
+      },
+      {
+        "number": 205,
+        "description": "The server sends activation information for protection against cross-site scripting.",
+        "tags": [
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-server-sends-activation-information-for-protection-against-cross-site-scripting"
+      },
+      {
+        "number": 206,
+        "description": "The server sends information that indicates which domains are allowed to embed its pages in frames",
+        "tags": [
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-server-sends-information-that-indicates-which-domains-are-allowed-to-embed-its-pages-in-frames"
+      },
+      {
+        "number": 207,
+        "description": "The website offers a security mechanism that limits the sources of its content.",
+        "tags": [
+          "Basics",
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-website-offers-a-security-mechanism-that-limits-the-sources-of-its-content"
+      },
+      {
+        "number": 208,
+        "description": "The server doesn't communicate information on the software and languages used.",
+        "tags": [
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-server-doesnt-communicate-information-on-the-software-and-languages"
+      },
+      {
+        "number": 209,
+        "description": "Integrity control of third party resources is present and valid.",
+        "tags": [
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/integrity-control-of-third-party-resources-is-present-and-valid"
+      },
+      {
+        "number": 210,
+        "description": "The website offers at least two mechanisms to validate a secure operation.",
+        "tags": [
+          "Conception",
+          "Development",
+          "Security"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-website-offers-at-least-two-mechanisms-to-validate-a-secure-operation"
+      }
+    ]
+  },
+  {
+    "category": "Server and performances",
+    "rules": [
+      {
+        "number": 211,
+        "description": "The address of the website and of its subdomains works with and without a www prefix.",
+        "tags": [
+          "Development",
+          "Eco-conception",
+          "Server and performance"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-address-of-the-site-and-of-its-subdomains-works-with-and-without-a-www-prefix"
+      },
+      {
+        "number": 212,
+        "description": "The website’s root contains instructions for web crawlers.",
+        "tags": [
+          "Basics",
+          "Development",
+          "Eco-conception",
+          "SEO",
+          "Server and performance"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-sites-root-contains-instructions-for-web-crawlers"
+      },
+      {
+        "number": 213,
+        "description": "The website provides a sitemap file listing the content to be crawled.",
+        "tags": [
+          "Basics",
+          "Development",
+          "Eco-conception",
+          "Editorial",
+          "SEO",
+          "Server and performance"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-website-provides-a-sitemap-file-listing-the-content-to-be-crawled"
+      },
+      {
+        "number": 214,
+        "description": "The server does not force redirects from the desktop version to the mobile version or application.",
+        "tags": [
+          "Development",
+          "Mobile",
+          "Server and performance"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-server-does-not-force-redirects-from-the-desktop-version-to-the-mobile-version"
+      },
+      {
+        "number": 215,
+        "description": "The server sends a 404 HTTP error code for resources not found",
+        "tags": [
+          "Development",
+          "Eco-conception",
+          "SEO",
+          "Server and performance"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-server-sends-a-404-http-error-code-for-resources-not-found"
+      },
+      {
+        "number": 216,
+        "description": "The server sends a customised 404 Not found error page",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Server and performance"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-server-sends-a-personalised-404-not-found-error-page"
+      },
+      {
+        "number": 217,
+        "description": "The server sends a customised 403 “Forbidden” error page.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Server and performance"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-server-sends-a-personalized-403-forbidden-error-page"
+      },
+      {
+        "number": 218,
+        "description": "The main navigation menu is displayed on custom error pages.",
+        "tags": [
+          "Accessibility",
+          "Conception",
+          "Development",
+          "Server and performance"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-main-navigation-menu-is-displayed-on-personalized-error-pages"
+      },
+      {
+        "number": 219,
+        "description": "The server transmits compressed contents to the clients which accept them.",
+        "tags": [
+          "Basics",
+          "Development",
+          "Eco-conception",
+          "Server and performance"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-server-compresses-contents-if-the-client-accepts-compressed-contents"
+      },
+      {
+        "number": 220,
+        "description": "The server sends information to enable the caching of contents",
+        "tags": [
+          "Basics",
+          "Development",
+          "Eco-conception",
+          "Server and performance"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-server-sends-information-to-enable-the-caching-of-contents"
+      },
+      {
+        "number": 221,
+        "description": "Headers sent by the server contain information pertaining to the character set used",
+        "tags": [
+          "Development",
+          "SEO",
+          "Server and performance"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/headers-sent-by-the-server-contain-information-pertaining-to-the-character-set-used"
+      },
+      {
+        "number": 222,
+        "description": "Style sheets of the website are minified.",
+        "tags": [
+          "Basics",
+          "Development",
+          "Eco-conception",
+          "Server and performance"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/style-sheets-are-minified"
+      },
+      {
+        "number": 223,
+        "description": "Scripts of the website are minified.",
+        "tags": [
+          "Basics",
+          "Development",
+          "Eco-conception",
+          "Server and performance"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/scripts-are-minified"
+      }
+    ]
+  },
+  {
+    "category": "Structure and code",
+    "rules": [
+      {
+        "number": 224,
+        "description": "The date of publication or update of the contents is made available in a programmatic form.",
+        "tags": [
+          "Development",
+          "SEO",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-date-of-publication-or-update-of-the-contents-is-made-available-in-a-programmatic-form"
+      },
+      {
+        "number": 225,
+        "description": "Each page’s source code contains metadata which defines the character set used.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "SEO",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-pages-source-code-contains-metadata-that-define-the-character-set-used"
+      },
+      {
+        "number": 226,
+        "description": "The character encoding is UTF-8.",
+        "tags": [
+          "Development",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-character-encoding-is-utf-8"
+      },
+      {
+        "number": 227,
+        "description": "Each page’s content is organized according to a hierarchical structure of headings and sub-headings.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "SEO",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-pages-content-is-organized-according-to-a-hierarchical-structure-of-headings-and-sub-headings"
+      },
+      {
+        "number": 228,
+        "description": "Elements that are visually displayed as lists are tagged in an appropriate way in the source code.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/elements-that-are-visually-displayed-as-lists-are-tagged-in-an-appropriate-way-in-the-source-code"
+      },
+      {
+        "number": 229,
+        "description": "Each HTML ID is only used once per page.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/each-html-id-is-only-used-once-per-page"
+      },
+      {
+        "number": 230,
+        "description": "The website does not block the copying of content.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-website-does-not-block-the-copying-of-content"
+      },
+      {
+        "number": 231,
+        "description": "The website does not block access to the contextual menu.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-website-does-not-block-access-to-the-context-menu"
+      },
+      {
+        "number": 232,
+        "description": "The website does not force any redirects or auto-refreshes on the client side.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Development",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-site-does-not-force-any-redirects-or-auto-refreshes-on-the-client-side"
+      },
+      {
+        "number": 233,
+        "description": "The text of internal PDF documents can be selected.",
+        "tags": [
+          "Basics",
+          "Accessibility",
+          "Editorial",
+          "SEO",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/the-text-of-internal-pdf-documents-can-be-selected"
+      },
+      {
+        "number": 234,
+        "description": "Internal PDF documents are given a structure based on titles.",
+        "tags": [
+          "Accessibility",
+          "Editorial",
+          "SEO",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/internal-pdf-documents-are-given-a-structure-based-on-headings"
+      },
+      {
+        "number": 235,
+        "description": "Syndication feeds can be detected by user agents",
+        "tags": [
+          "Development",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/syndication-feeds-can-be-detected-by-user-agents"
+      },
+      {
+        "number": 236,
+        "description": "Cells in data tables are linked to their headers",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/cells-in-data-tables-are-linked-to-their-headers"
+      },
+      {
+        "number": 237,
+        "description": "Captions for data tables are provided",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Editorial",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/captions-for-data-tables-are-provided"
+      },
+      {
+        "number": 238,
+        "description": "Linearising tables used for layout does not impede the understanding of contents",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/linearising-tables-used-for-layout-does-not-impede-the-understanding-of-contents"
+      },
+      {
+        "number": 239,
+        "description": "Data tables are not replaced by images.",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "Eco-conception",
+          "Editorial",
+          "SEO",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/data-tables-are-not-replaced-by-images"
+      },
+      {
+        "number": 240,
+        "description": "Data tables are not simulated through styled text",
+        "tags": [
+          "Accessibility",
+          "Development",
+          "SEO",
+          "Structure and code"
+        ],
+        "link": "https://checklists.opquast.com/en/web-quality-assurance/data-tables-are-not-simulated-through-styled-text"
+      }
+    ]
+  }
+]
